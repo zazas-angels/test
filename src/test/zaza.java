@@ -1,6 +1,7 @@
 package test;
 
 public class zaza {
-  System.out.println("zaza");
-  andro
+  public static void main(String[] args) {
+    System.out.println("zazunaaaaa");
+  }
 }
